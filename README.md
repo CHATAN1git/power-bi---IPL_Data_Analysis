@@ -9,7 +9,7 @@ The main goal of this project is to analyze historical IPL data to:
 - Understand team and player performances
 - Identify match-winning factors
 - Discover trends across seasons
-- Present the insights in an interactive and visual format using Power BI
+- Present the insights in an interactive and visual format using Power BI.
 
 ## 📊 Features of the Dashboard
 - 🏆 **Team Performance Overview** – Wins, losses, and trends by team
